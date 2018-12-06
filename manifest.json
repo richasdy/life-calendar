@@ -1,0 +1,15 @@
+{
+   "author": "Paras Chopra - paraschopra.com",
+   "chrome_url_overrides": {
+      "newtab": "newtab.html"
+   },
+   "description": "Get reminded of how little of your life is left with each new tab!",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh/YP3HtQFefkyfomgC6pSUGxok7tyMAhM6IqenYCh370IMSfLZWC3hdrTTIX97DAEG978vbnXEX4vV2DV4f2c0Dl7LoIcae0cMPkEmttofH8R0/y/iIuqXtVbbig7ksZOoiOR5rKLVpZ/6ewumcfXnqMva1i77FDYzMK+63jvvfFSTdSkJrKzsm75ic7/erQpIYrUxrUiwO8XTXjgnzYNUHbWEDlK+KlGSgQCISt4kHh7NZLgiWbLswsIkCv9AVzv97Q1Wfto2H5VbSTc+5gRlqWy+1m/wqj5jVTtfKJELQ9vUqw4b/NikNTYznTJOEgW7iy09VJH9FGt1CH/u1IrwIDAQAB",
+   "manifest_version": 2,
+   "name": "The Last Sunday: reminder of life rushing by",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.1"
+}
